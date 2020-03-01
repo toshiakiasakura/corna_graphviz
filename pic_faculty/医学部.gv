@@ -1,0 +1,8 @@
+// The Round Table
+digraph "hello world" {
+	"医学科"
+	"保健学科"
+	"医学部" -> "医学科"
+	"医学部" -> "保健学科"
+	overlap=false
+}
